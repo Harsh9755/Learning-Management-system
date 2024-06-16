@@ -55,7 +55,7 @@ const onSubmit= async(values: z.infer<typeof formSchema>)=>{
           Name Your Course
         </h1>
         <p className="text-sm text-slate-600">
-          What whould you like to name your Course? Don't worry,
+          What whould you like to name your Course? Don&apos;t worry,
           you can change this later.
         </p>
     <Form {...form}>
